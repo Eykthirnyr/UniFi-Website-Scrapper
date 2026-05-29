@@ -7,7 +7,7 @@ Balaye **17 catégories**, gère toutes les variantes produit et exporte un fich
 
 ## Fonctionnalités
 
-- **17 catégories** couvertes : Cloud Gateways, Switching, WiFi, Caméras, Door Access, Storage, Câbles, SFP, PoE, Rack, etc.
+- **17 catégories** couvertes : Cloud Gateways, Switching, WiFi, Caméras, Door Access, Storage, Câbles, SFP, PoE...
 - **Variantes multi-dimensionnelles** : longueurs de câbles, couleurs (swatches), capacités HDD (8 / 16 / 24 TB), formats Indoor/Outdoor… chaque combinaison = une ligne distincte
 - **Déduplication stricte** par URL (y compris `?variant=` pour les câbles)
 - **Prix EU** interprétés correctement : `2.000,00 €` → `2000.00` (virgule décimale, point milliers, `&nbsp;`)
